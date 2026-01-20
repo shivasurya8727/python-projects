@@ -1,2 +1,1 @@
-# python-projects
-This repository contains a collection of Python projects demonstrating my skills in data structures, algorithms, web scraping, automation, and problem-solving. Each project includes clear documentation, code structure, and usage instructions.
+This repository is a collection of Python projects demonstrating skills in programming, problem-solving, automation, data manipulation, and software development. Each project is organized, documented, and designed to showcase practical Python applications.
